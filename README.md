@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Maicon!
+# 👋 Olá, eu sou o Maicon! Seja bem-vindo ao meu GitHub!
 
 Sou estudante de Ciência da Computação e estou construindo minha carreira para me tornar um Engenheiro de Software.
 
@@ -116,4 +116,3 @@ Meu objetivo é atuar em projetos desafiadores que me permitam evoluir constante
 
 Estou sempre aberto para trocar experiências, aprender novas tecnologias e compartilhar minha evolução como desenvolvedor.
 
-Seja bem-vindo ao meu GitHub!
