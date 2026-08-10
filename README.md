@@ -31,8 +31,7 @@ Acredito que a melhor forma de aprender é resolver problemas reais através de 
 * Spring Boot
 
 ## Frontend
-
-* Angular
+* React
 
 ## Banco de Dados
 
