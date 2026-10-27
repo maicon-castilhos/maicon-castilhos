@@ -1,136 +1,158 @@
 # Olá, eu sou o Maicon!
 
-Sou estudante de **Ciência da Computação** e estou construindo minha carreira para me tornar um **Engenheiro de Software Full Stack**.
+Sou estudante de **Ciência da Computação** e estou construindo minha carreira como **Desenvolvedor Backend Java**, com foco em **Spring Boot, APIs REST, persistência de dados e testes**.
 
-Acredito que a melhor forma de aprender é resolver problemas reais através de projetos práticos, evoluindo continuamente tanto o código quanto o conhecimento.
-
-Minha filosofia de aprendizado é simples: **aprender um conceito, aplicá-lo em um projeto e evoluí-lo continuamente**.
+Aprendo por meio de projetos práticos, buscando compreender as regras de negócio e as decisões técnicas por trás de cada implementação. Frontend e qualidade de software complementam minha formação e minha experiência.
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 💻 Focado em **Desenvolvimento Full Stack** com ênfase em back-end Java
-- 🎯 Objetivo de longo prazo: tornar-me **Engenheiro de Software Full Stack**
-- 🤝 Interesse em contribuir com projetos **Open Source**
-- 📖 Gosto de aprender por meio de documentação, projetos pessoais e desafios práticos
-- 🧪 Estagiando na área de **Data Quality**, aplicando visão crítica sobre integridade de dados
+- Foco profissional em **desenvolvimento backend com Java e Spring Boot**.
+- Experiência no desenvolvimento de uma plataforma interna com **Java, Spring Boot e PostgreSQL**.
+- Atuação como estagiário em **Data Quality**, com auditoria e correção de dados.
+- Experiência anterior em gestão de equipes e operações, contribuindo para minha compreensão de processos, indicadores e regras de negócio.
+- Conhecimentos complementares em **React, Angular e testes de software**.
+- Interesse em contribuir com projetos **Open Source**.
 
 ---
 
-## 🛠 Stack Técnica
-
-### Linguagens
-Java · TypeScript · JavaScript · SQL · HTML/CSS
+## Stack técnica
 
 ### Backend
-Spring Boot · Spring Security · Spring Data · JWT · OAuth2 · Hibernate · REST APIs
 
-### Frontend
-Angular · Tailwind CSS
+Java · Spring Boot · Spring Data JPA · Hibernate · APIs REST · Maven
 
-### Banco de Dados
-PostgreSQL · MongoDB · MySQL
+### Bancos de dados
 
-### Testes
-JUnit · Mockito
+SQL · PostgreSQL · MongoDB · MySQL · H2
 
-### DevOps & Ferramentas
-Docker · Swagger · Maven · Git · GitHub · Postman
+### Testes e validação
 
----
+Postman · JUnit · MockMvc  
+**Em aprofundamento:** Mockito e Selenium
 
-## 📚 Atualmente estudando
+### Versionamento e ferramentas
 
-- Arquitetura de Software
-- Microsserviços
-- Spring Cloud
-- CI/CD
-- Comunicação síncrona entre serviços
-- SonarQube
+Git · GitHub · Postman  
+**Em aprofundamento:** Docker e documentação com Swagger/OpenAPI
+
+### Frontend complementar
+
+React · Angular · TypeScript · JavaScript · HTML/CSS · Tailwind CSS
 
 ---
 
-## 📌 Projetos em Destaque
+## Atualmente estudando
 
-### 🔹 API Blog
-API REST desenvolvida para prática de integração entre Spring Boot e MongoDB, com gestão de posts, comentários e buscas avançadas.
+- Validação de dados, DTOs e tratamento de exceções.
+- Segurança com Spring Security, JWT e OAuth2.
+- Publicação de aplicações e uso de Docker.
+- Fundamentos de arquitetura de software, microsserviços e CI/CD.
+
+---
+
+## Projetos em destaque
+
+### Automechanic API
+
+API REST para gestão de oficinas mecânicas, abrangendo clientes, veículos, peças, serviços e ordens de serviço.
+
+O projeto permite aprofundar regras de negócio, como cálculo de valores, validação de descontos e consistência dos relacionamentos entre registros. Também inclui arquitetura em camadas, tratamento de exceções, configuração por perfis e testes de regressão.
+
+**Stack:** Java 25 · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL · H2 · JUnit · MockMvc · Maven
+
+[Ver repositório](https://github.com/maicon-castilhos/automechanic-api)
+
+### API Blog
+
+Projeto de estudo de integração entre **Spring Boot e MongoDB**, com gestão de posts, comentários e buscas.
+
+**Aprendizados:** persistência em banco orientado a documentos, construção de endpoints REST e validação de requisições com Postman.
 
 **Stack:** Java · Spring Boot · MongoDB · Maven · Postman
-**Repositório:** [blog-api-springboot-mongodb](https://github.com/maicon-castilhos/blog-api-springboot-mongodb)
+
+[Ver repositório](https://github.com/maicon-castilhos/blog-api-springboot-mongodb)
+
+### Sistema de Pedidos
+
+API REST para gerenciamento de usuários, produtos, categorias, pedidos e pagamentos.
+
+**Aprendizados:** modelagem de relacionamentos entre entidades, persistência com JPA/Hibernate e organização da aplicação em camadas.
+
+**Stack:** Java · Spring Boot · Spring Data JPA · Hibernate · H2 · PostgreSQL · Postman
+
+[Ver repositório](https://github.com/maicon-castilhos/springboot4-jpa)
 
 ---
 
-### 🔹 Sementes do Amanhã
-Plataforma web completa voltada ao terceiro setor, desenvolvida para uma ONG fictícia como cenário de prática de desenvolvimento frontend, com foco em HTML semântico, acessibilidade e JavaScript modular.
+## Experiência profissional em desenvolvimento
 
-**Stack:** JavaScript · HTML5 · CSS3 · History API · localStorage
-**Repositório:** [pratica-frontend-1-CC](https://github.com/maicon-castilhos/pratica-frontend-1-CC)
-**Demo:** [maicon-castilhos.github.io/pratica-frontend-1-CC](https://maicon-castilhos.github.io/pratica-frontend-1-CC/)
+### Lucas Silva e Associados
 
----
+Atuo como **Full Stack Júnior**, com participação na arquitetura e no desenvolvimento de uma plataforma interna utilizando **Java, Spring Boot e PostgreSQL**.
 
-### 🔹 API E-commerce
-API RESTful de e-commerce desenvolvida com Spring Boot, aplicando JPA, relacionamentos entre entidades e boas práticas de arquitetura em camadas. Projeto também utilizado para estudar engenharia de prompt aplicada à produtividade.
-**Stack:** Java · Spring Boot · Spring Data JPA · H2 · Postman
-**Repositório:**[springboot4-jpa](https://github.com/maicon-castilhos/springboot4-jpa)
+Entre as funcionalidades desenvolvidas estão:
 
----
+- Distribuição de tarefas para advogados e estagiários.
+- Pontuação para acompanhamento de produtividade, promoções e recompensas.
+- Área para envio de documentos por clientes.
+- Acompanhamento de etapas de candidaturas.
+- Dashboards com informações conforme o perfil de acesso.
 
-## 🧪 Outros projetos
-
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| *(em breve)* | Espaço reservado para novos projetos | - |
+Essa experiência contribui para minha evolução em backend ao transformar necessidades da equipe em funcionalidades e regras de negócio.
 
 ---
 
-## 📖 Minha forma de aprender
+## Projetos complementares de frontend
 
-Acredito que programar vai muito além de escrever código.
+### Lucas Silva e Advogados Associados
 
-Meu objetivo é **entender por que uma solução existe** antes de aprender como implementá-la.
+Site institucional responsivo desenvolvido com **React, Vite e CSS**, com navegação sem recarregamento, suporte a quatro idiomas e efeitos visuais em WebGL com alternativa estática.
 
-Meu processo de aprendizado consiste em:
+[Ver repositório](https://github.com/maicon-castilhos/lucas-associado) · [Acessar site](https://maicon-castilhos.github.io/lucas-associado/)
 
-1. Estudar o conceito
-2. Resolver exercícios
-3. Aplicar o conhecimento em projetos reais
-4. Refatorar continuamente buscando um código mais limpo e organizado
+### Sementes do Amanhã
 
----
+Projeto de prática de frontend para uma ONG fictícia, utilizando **HTML, CSS e JavaScript**, com foco em estrutura semântica, acessibilidade e organização do código.
 
-## 🤖 Como utilizo Inteligência Artificial
-
-Utilizo IA como ferramenta de produtividade, **nunca como substituta do aprendizado**.
-
-Minha regra pessoal é:
-
-> **Nunca utilizo IA para escrever código de assuntos que ainda não estudei.**
-
-A IA faz parte do meu fluxo de desenvolvimento para:
-
-- Discutir arquitetura
-- Revisar código
-- Sugerir melhorias
-- Automatizar tarefas repetitivas em tecnologias que já domino
-
-Dessa forma, consigo aumentar minha produtividade sem abrir mão do entendimento técnico.
+[Ver repositório](https://github.com/maicon-castilhos/pratica-frontend-1-CC) · [Acessar demonstração](https://maicon-castilhos.github.io/pratica-frontend-1-CC/)
 
 ---
 
-## 🎯 Objetivos Profissionais
+## Qualidade como competência complementar
 
-Meu objetivo é atuar em projetos desafiadores que me permitam evoluir constantemente como desenvolvedor, contribuir para soluções de qualidade e aprofundar meus conhecimentos em Engenharia de Software.
+Minha atuação em **Data Quality** fortalece minha atenção à consistência das informações e à investigação de problemas.
 
-Busco oportunidades como **Desenvolvedor Full Stack Júnior** ou **Estágio em Desenvolvimento Back-end**, com abertura também para posições em **QA Automation**.
+Nos projetos de desenvolvimento, venho aprofundando:
+
+- Validação manual de APIs com Postman.
+- Cenários válidos, inválidos e de exceção.
+- Verificação de regras de negócio e respostas HTTP.
+- Testes automatizados com JUnit, MockMvc e H2.
+- Regressão após alterações no código.
+
+Meu foco profissional permanece em **backend Java**, utilizando a qualidade de software como parte do desenvolvimento.
+
+---
+## Como utilizo inteligência artificial
+
+Utilizo IA como apoio para estudar conceitos, discutir alternativas, revisar código e investigar problemas.
+
+Parte da evolução dos meus projetos conta com esse apoio. Procuro compreender as sugestões, conferir seu comportamento e desenvolver autonomia para explicar e manter as soluções adotadas.
 
 ---
 
-## 📫 Vamos nos conectar!
+## Objetivos profissionais
 
-- 💼 **LinkedIn:** [maicon-amaral-b9283722a](https://www.linkedin.com/in/maicon-amaral-b9283722a/)
-- 🌐 **Portfólio:** [maicon-castilhos.github.io/portifolio-v1](https://maicon-castilhos.github.io/portifolio-v1/)
-- 📧 **E-mail:** maikamaral123@gmail.com
+Busco oportunidades de **Estágio em Desenvolvimento Backend** ou **Desenvolvedor Backend Java Júnior**, com preferência por **trabalho remoto**.
 
-Estou sempre aberto para trocar experiências, aprender novas tecnologias e compartilhar minha evolução como desenvolvedor.
+Meu objetivo é aprofundar meus conhecimentos em Java, Spring Boot, SQL, testes e arquitetura de software, contribuindo para aplicações confiáveis e evoluindo em direção à Engenharia de Software.
+
+---
+
+## Vamos nos conectar
+
+- **LinkedIn:** [Maicon Amaral](https://www.linkedin.com/in/maicon-amaral-b9283722a/)
+- **Portfólio:** [Conheça meus projetos](https://maicon-castilhos.github.io/portifolio-v1/)
+- **E-mail:** [maikamaral123@gmail.com](mailto:maikamaral123@gmail.com)
