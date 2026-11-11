@@ -1,158 +1,101 @@
-# Olá, eu sou o Maicon!
+<h1 align="center">Maicon Amaral</h1>
 
-Sou estudante de **Ciência da Computação** e estou construindo minha carreira como **Desenvolvedor Backend Java**, com foco em **Spring Boot, APIs REST, persistência de dados e testes**.
+<p align="center">
+  <b>Desenvolvedor Back-end Java</b> · Java · Spring Boot · PostgreSQL · APIs REST
+</p>
 
-Aprendo por meio de projetos práticos, buscando compreender as regras de negócio e as decisões técnicas por trás de cada implementação. Frontend e qualidade de software complementam minha formação e minha experiência.
+<p align="center">
+  <a href="https://maicon-castilhos.github.io/portifolio-v1/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1528?style=for-the-badge&logo=githubpages&logoColor=3fd0ff" alt="Portfólio"></a>
+  <a href="https://www.linkedin.com/in/maicon-amaral-b9283722a/"><img src="https://img.shields.io/badge/LinkedIn-0d1528?style=for-the-badge&logo=linkedin&logoColor=3fd0ff" alt="LinkedIn"></a>
+  <a href="mailto:maikamaral123@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1528?style=for-the-badge&logo=gmail&logoColor=3fd0ff" alt="E-mail"></a>
+</p>
 
----
+Sou graduando em **Ciência da Computação** e desenvolvo APIs REST com **Java, Spring Boot e PostgreSQL**, cuidando de modelagem de dados, autenticação, regras de negócio, validações e testes de integração.
 
-## Sobre mim
+Hoje contribuo com o projeto open source **Calendar**, onde tenho um PR integrado, e desenvolvo o **Acompanha Aí**, uma plataforma para acompanhar candidaturas a vagas.
 
-- Foco profissional em **desenvolvimento backend com Java e Spring Boot**.
-- Experiência no desenvolvimento de uma plataforma interna com **Java, Spring Boot e PostgreSQL**.
-- Atuação como estagiário em **Data Quality**, com auditoria e correção de dados.
-- Experiência anterior em gestão de equipes e operações, contribuindo para minha compreensão de processos, indicadores e regras de negócio.
-- Conhecimentos complementares em **React, Angular e testes de software**.
-- Interesse em contribuir com projetos **Open Source**.
-
----
-
-## Stack técnica
-
-### Backend
-
-Java · Spring Boot · Spring Data JPA · Hibernate · APIs REST · Maven
-
-### Bancos de dados
-
-SQL · PostgreSQL · MongoDB · MySQL · H2
-
-### Testes e validação
-
-Postman · JUnit · MockMvc  
-**Em aprofundamento:** Mockito e Selenium
-
-### Versionamento e ferramentas
-
-Git · GitHub · Postman  
-**Em aprofundamento:** Docker e documentação com Swagger/OpenAPI
-
-### Frontend complementar
-
-React · Angular · TypeScript · JavaScript · HTML/CSS · Tailwind CSS
+Busco **estágio ou vaga júnior em back-end Java**, com preferência por trabalho remoto.
 
 ---
 
-## Atualmente estudando
+## Destaques
 
-- Validação de dados, DTOs e tratamento de exceções.
-- Segurança com Spring Security, JWT e OAuth2.
-- Publicação de aplicações e uso de Docker.
-- Fundamentos de arquitetura de software, microsserviços e CI/CD.
+### Calendar · contribuição open source
 
----
+Contribuição voluntária no back-end de um projeto de código aberto em Java, Spring Boot e PostgreSQL.
 
-## Projetos em destaque
+- **PR #227 (integrado):** preferências de notificação por usuário e antecedência opcional de lembretes por tarefa, com validação na API, migrações Flyway e testes de integração com PostgreSQL. A suíte de 280 testes continuou passando.
+- **PR #228 (em andamento):** agendamento persistente de lembretes, atualizando os horários quando a tarefa é editada.
 
-### Automechanic API
+`Java` `Spring Boot` `PostgreSQL` `Flyway` `Testes de integração`
 
-API REST para gestão de oficinas mecânicas, abrangendo clientes, veículos, peças, serviços e ordens de serviço.
+[Repositório](https://github.com/Tecnologia-da-Informacao-BR/Calendar) · [PR #227](https://github.com/Tecnologia-da-Informacao-BR/Calendar/pull/227) · [PR #228](https://github.com/Tecnologia-da-Informacao-BR/Calendar/pull/228)
 
-O projeto permite aprofundar regras de negócio, como cálculo de valores, validação de descontos e consistência dos relacionamentos entre registros. Também inclui arquitetura em camadas, tratamento de exceções, configuração por perfis e testes de regressão.
+### Acompanha Aí · projeto principal
 
-**Stack:** Java 25 · Spring Boot · Spring Data JPA · Hibernate · PostgreSQL · H2 · JUnit · MockMvc · Maven
+Plataforma web para acompanhar candidaturas e processos seletivos, com contas de usuários, filtros, paginação e histórico de etapas.
 
-[Ver repositório](https://github.com/maicon-castilhos/automechanic-api)
+- API em camadas: controllers, services, repositories, DTOs e entidades.
+- Autenticação por sessão com Spring Security, proteção CSRF e isolamento de dados por usuário.
+- Transações, deduplicação de vagas e controle de versão para rejeitar edições desatualizadas.
+- Testes com JUnit, Mockito e MockMvc, documentação OpenAPI, Docker e CI/CD.
 
-### API Blog
+`Java 25` `Spring Boot 4` `Spring Security` `PostgreSQL` `Flyway` `Angular` `Docker`
 
-Projeto de estudo de integração entre **Spring Boot e MongoDB**, com gestão de posts, comentários e buscas.
-
-**Aprendizados:** persistência em banco orientado a documentos, construção de endpoints REST e validação de requisições com Postman.
-
-**Stack:** Java · Spring Boot · MongoDB · Maven · Postman
-
-[Ver repositório](https://github.com/maicon-castilhos/blog-api-springboot-mongodb)
-
-### Sistema de Pedidos
-
-API REST para gerenciamento de usuários, produtos, categorias, pedidos e pagamentos.
-
-**Aprendizados:** modelagem de relacionamentos entre entidades, persistência com JPA/Hibernate e organização da aplicação em camadas.
-
-**Stack:** Java · Spring Boot · Spring Data JPA · Hibernate · H2 · PostgreSQL · Postman
-
-[Ver repositório](https://github.com/maicon-castilhos/springboot4-jpa)
+[Repositório](https://github.com/acompanhaai-project/acompanhaai-v1)
 
 ---
 
-## Experiência profissional em desenvolvimento
+## Outros projetos
 
-### Lucas Silva e Associados
-
-Atuo como **Full Stack Júnior**, com participação na arquitetura e no desenvolvimento de uma plataforma interna utilizando **Java, Spring Boot e PostgreSQL**.
-
-Entre as funcionalidades desenvolvidas estão:
-
-- Distribuição de tarefas para advogados e estagiários.
-- Pontuação para acompanhamento de produtividade, promoções e recompensas.
-- Área para envio de documentos por clientes.
-- Acompanhamento de etapas de candidaturas.
-- Dashboards com informações conforme o perfil de acesso.
-
-Essa experiência contribui para minha evolução em backend ao transformar necessidades da equipe em funcionalidades e regras de negócio.
+| Projeto | O que é | Stack |
+| --- | --- | --- |
+| [Automechanic API](https://github.com/maicon-castilhos/automechanic-api) | API para oficinas mecânicas: clientes, veículos, peças, serviços e ordens de serviço, com cálculo de valores, validações de negócio e 18 testes de regressão | Java 25 · Spring Boot 4 · JPA · PostgreSQL · H2 |
+| [Sistema de Pedidos](https://github.com/maicon-castilhos/springboot4-jpa) | API de usuários, produtos, categorias, pedidos e pagamentos, com modelagem de relacionamentos | Java · Spring Boot · JPA · PostgreSQL |
+| [API Blog](https://github.com/maicon-castilhos/blog-api-springboot-mongodb) | API de posts, comentários e buscas em banco orientado a documentos | Java · Spring Boot · MongoDB |
+| [Lucas Silva e Advogados Associados](https://github.com/maicon-castilhos/lucas-associado) | Site institucional responsivo com quatro idiomas · [ver site](https://maicon-castilhos.github.io/lucas-associado/) | React · Vite · WebGL |
+| [Sementes do Amanhã](https://github.com/maicon-castilhos/pratica-frontend-1-CC) | Prática de front-end para uma ONG fictícia · [ver site](https://maicon-castilhos.github.io/pratica-frontend-1-CC/) | HTML · CSS · JavaScript |
 
 ---
 
-## Projetos complementares de frontend
+## Experiência
 
-### Lucas Silva e Advogados Associados
+| Período | Função | Onde |
+| --- | --- | --- |
+| nov/2026 — atual | Desenvolvedor Back-end Java (voluntário) | Calendar · open source |
+| ago/2026 — atual | Estágio em Data Quality | Stringhini |
+| jun/2026 — out/2026 | Full Stack Júnior | Lucas Silva e Associados |
+| jul/2025 — mar/2026 | Site Leader | Shopee |
 
-Site institucional responsivo desenvolvido com **React, Vite e CSS**, com navegação sem recarregamento, suporte a quatro idiomas e efeitos visuais em WebGL com alternativa estática.
+Na **Lucas Silva e Associados**, desenvolvi o site institucional e uma plataforma interna em Java, Spring Boot e PostgreSQL, com distribuição de tarefas por pontuação, regras de promoção, acesso de clientes a documentos e perfis de acesso. O código é de uso interno e não está publicado.
 
-[Ver repositório](https://github.com/maicon-castilhos/lucas-associado) · [Acessar site](https://maicon-castilhos.github.io/lucas-associado/)
-
-### Sementes do Amanhã
-
-Projeto de prática de frontend para uma ONG fictícia, utilizando **HTML, CSS e JavaScript**, com foco em estrutura semântica, acessibilidade e organização do código.
-
-[Ver repositório](https://github.com/maicon-castilhos/pratica-frontend-1-CC) · [Acessar demonstração](https://maicon-castilhos.github.io/pratica-frontend-1-CC/)
-
----
-
-## Qualidade como competência complementar
-
-Minha atuação em **Data Quality** fortalece minha atenção à consistência das informações e à investigação de problemas.
-
-Nos projetos de desenvolvimento, venho aprofundando:
-
-- Validação manual de APIs com Postman.
-- Cenários válidos, inválidos e de exceção.
-- Verificação de regras de negócio e respostas HTTP.
-- Testes automatizados com JUnit, MockMvc e H2.
-- Regressão após alterações no código.
-
-Meu foco profissional permanece em **backend Java**, utilizando a qualidade de software como parte do desenvolvimento.
-
----
-## Como utilizo inteligência artificial
-
-Utilizo IA como apoio para estudar conceitos, discutir alternativas, revisar código e investigar problemas.
-
-Parte da evolução dos meus projetos conta com esse apoio. Procuro compreender as sugestões, conferir seu comportamento e desenvolver autonomia para explicar e manter as soluções adotadas.
+Na **Shopee**, liderei operações de inbound e outbound. A produtividade da equipe foi de 425 para 617 pacotes por pessoa.
 
 ---
 
-## Objetivos profissionais
+## Stack
 
-Busco oportunidades de **Estágio em Desenvolvimento Backend** ou **Desenvolvedor Backend Java Júnior**, com preferência por **trabalho remoto**.
+| Área | Tecnologias |
+| --- | --- |
+| Back-end | Java 17, 21 e 25 · Spring Boot 4 · Spring Security · APIs REST · Maven |
+| Dados | PostgreSQL · SQL · Spring Data JPA · Hibernate · Flyway · MongoDB |
+| Testes e documentação | JUnit · Mockito · MockMvc · Spring Security Test · OpenAPI · Postman |
+| Entrega | Docker · CI/CD · Git e GitHub |
+| Front-end complementar | Angular · React · TypeScript |
 
-Meu objetivo é aprofundar meus conhecimentos em Java, Spring Boot, SQL, testes e arquitetura de software, contribuindo para aplicações confiáveis e evoluindo em direção à Engenharia de Software.
+**Estudando agora:** JWT e OAuth2, arquitetura de software e microsserviços.
 
 ---
 
-## Vamos nos conectar
+## Como eu testo
 
-- **LinkedIn:** [Maicon Amaral](https://www.linkedin.com/in/maicon-amaral-b9283722a/)
-- **Portfólio:** [Conheça meus projetos](https://maicon-castilhos.github.io/portifolio-v1/)
-- **E-mail:** [maikamaral123@gmail.com](mailto:maikamaral123@gmail.com)
+- **Segurança:** acesso sem login, permissões e tentativas de ler dados de outro usuário (401 e 403).
+- **Validação:** entradas inválidas e recursos inexistentes, conferindo status e mensagem de erro (400 e 404).
+- **Concorrência:** edições simultâneas, garantindo que uma atualização desatualizada seja rejeitada (409).
+- **Regressão:** a suíte completa roda a cada mudança, antes de abrir um PR.
+
+---
+
+## Como uso inteligência artificial
+
+Uso IA para estudar conceitos, discutir alternativas, revisar código e investigar problemas. Procuro entender cada sugestão, conferir o comportamento e conseguir explicar e manter o que foi adotado.
